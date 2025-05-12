@@ -1,4 +1,5 @@
 apt-get update && apt-get upgrade -y
+sleep 10  # Jeda 10 detik
 apt-get install screen -y
 sleep 10  # Jeda 10 detik
 screen -R amirul1
